@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libothelloaistudent.a  CMakeFiles/othelloaistudent.dir/core/AImove.cpp.o
+/usr/bin/ranlib lib/libothelloaistudent.a
